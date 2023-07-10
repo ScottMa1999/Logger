@@ -1,0 +1,9 @@
+{
+  "appInfo": [
+    { "id": 1, "appName": "credit", "status": "UP", "errorCode": "", "cfApi": "api.sys.test.2z", "startTime": "2023-06-28", "spaceName": "prod", "refreshTime":60},
+    { "id": 2, "appName": "credit-auto", "status": "UP", "errorCode": "", "cfApi": "api.sys.test.2z", "startTime": "2023-06-28", "spaceName": "prod", "refreshTime":60},
+    { "id": 3, "appName": "business-banking", "status": "DOWN", "errorCode": "401", "cfApi": "api.sys.test.2z", "startTime": "2023-06-28", "spaceName": "prod", "refreshTime":60},
+    { "id": 4, "appName": "fraud", "status": "DOWN", "errorCode": "406", "cfApi": "api.sys.test.2z", "startTime": "2023-06-28", "spaceName": "prod", "refreshTime":60}
+  ]
+}
+ 
